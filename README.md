@@ -1,8 +1,9 @@
 # Email-Tool
 dropping offline load for derivative open source "awesome screenshot and screen recorder" contact care@awesomescreenshot.com <care@awesomescreenshot.com>;
 beta designated wallet note input[personalservicecorporation.io]:
+<p>
 -------------------------------------------------------INTERNAL INITIATIVE BEING VETTED FOR INFRASTRUCTURES----------------------------------------------------
-
+<p>
 Updated:09.30.2022
 ID 6yXxYpcmvxg8cRsLz1Cxpdxx48roGP339HwGoHHzCpci
 Type	10 Set Alias
